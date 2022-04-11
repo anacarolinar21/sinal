@@ -1,0 +1,2 @@
+# sinal
+exercicio etec
